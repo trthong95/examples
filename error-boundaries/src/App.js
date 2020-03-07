@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        {{}.a.b}
       </header>
     </div>
   );
